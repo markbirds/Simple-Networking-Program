@@ -1,4 +1,4 @@
-# Simple-Networking-Program
+# Simple Networking Program
 
 The program which gets some network information from an IP address with subnet prefix
 
