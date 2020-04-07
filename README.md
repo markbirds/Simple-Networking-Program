@@ -12,3 +12,5 @@ First Host Address - Ex. 192.168.10.97/28
 Last Host Address - Ex. 192.168.10.110/28
 Broadcast Address - Ex. 192.168.10.111/28
 Number of Hosts - 14
+
+Playlist link: https://www.youtube.com/playlist?list=PL9BEhEeCPDbbqOUywsq2brTBwrtOf2ZL3 
