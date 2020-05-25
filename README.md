@@ -14,3 +14,10 @@ Broadcast Address - Ex. 192.168.10.111/28
 Number of Hosts - 14
 
 Playlist link: https://www.youtube.com/playlist?list=PL9BEhEeCPDbbqOUywsq2brTBwrtOf2ZL3 
+
+My Youtube Channel: 	[Owen Patrick F. Falculan](https://www.youtube.com/channel/UCoTHZEIuf_LuQs24--uRHUg)
+
+---
+
+![interface](https://i.ibb.co/FhPJs7P/Capture1.jpg)
+
